@@ -17,7 +17,7 @@ Legend: ![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/pd
 
 Week | What | Where | When
 :--: | :--: | :---: | :--:
-[1](https://data.mail.ru/curriculum/program/lesson/16177/) | Tasks in NLP, text preprocessing (tokenization, normalization (stemming, lemmatization)), feature extraction (Bag-of-Words, Bag-of-Ngramms, TF-IDF), word embeddings (one-hot, matrix factorization, word2vec, CBOW, Skip-gram, GloVe). | [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/pdf.png)](https://github.com/Illumaria/made-natural-language-processing/blob/master/01-word-embeddings/01_word_embeddings.pdf) [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/youtube.png)](https://youtu.be/UARNjbAF5x4) | 10.03.2021
+[1](https://data.mail.ru/curriculum/program/lesson/16177/) | Tasks in NLP, text preprocessing (tokenization, normalization (stemming, lemmatization)), feature extraction (Bag-of-Words, Bag-of-Ngramms, TF-IDF), word embeddings (one-hot, matrix factorization, word2vec, CBOW, Skip-gram, GloVe). | [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/pdf.png)](https://github.com/Illumaria/made-natural-language-processing/blob/master/01-word-embeddings/01_word_embeddings.pdf) [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/jupyter.png)](https://nbviewer.jupyter.org/github/Illumaria/made-natural-language-processing/blob/master/01-word-embeddings/01_word_embeddings.ipynb?flush_cache=false) [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/youtube.png)](https://youtu.be/UARNjbAF5x4) | 10.03.2021
 
 Additional materials on the topic of **word embeddings**:
 * [Word Embeddings](https://lena-voita.github.io/nlp_course/word_embeddings.html) (by Lena Voita)
